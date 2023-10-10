@@ -1,0 +1,20 @@
+# Ignore core and contributed modules
+#/core/
+#/modules/contrib/
+
+# Ignore configuration files and sync directories
+#/sites/*/settings.local.php
+web/sites/*/settings*.php
+web/sites/*/files
+
+# Ignore development files
+#/sites/default/files/
+#/sites/default/files/styles/
+#/sites/default/private/
+
+# Ignore Drush aliases and configuration
+web/drush
+web/drush/*/*.yml
+
+# Ignore vendor folder and its contents 
+vendor/
