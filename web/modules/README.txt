@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+Very Important Infomation
+--------------------------
+
+Modules extend your site functionality beyond Drupal core.
+
+
+>>>>>>> govt_readme
 WHAT TO PLACE IN THIS DIRECTORY?
 --------------------------------
 
