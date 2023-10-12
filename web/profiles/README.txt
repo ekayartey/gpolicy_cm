@@ -1,3 +1,5 @@
+VERY Important INFORMATION
+-----------------------------
 Installation profiles define additional steps that run after the base
 installation of Drupal is completed. They may also offer additional
 functionality and change the behavior of the site.
